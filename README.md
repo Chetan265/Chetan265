@@ -5,12 +5,12 @@ Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflo
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in coding , Machine Learning,deep learning and Deployment.
 - 🤝 Open for job in  analytics,data science and python
-- 👨 Know more about me at [My Resume](add your google drive resume link here) 
+- 👨 Know more about me at [Chetan_resume](https://drive.google.com/file/d/1b6LZriVTDNfBdiqmsNdAT1oxdc73HQZA/view?usp=sharing) 
 
 ### My Recent projects 
 
-[Heart Disease Prediction](https://github.com/Chetan265/Projects/commit/9eb1973f8c8e93040cb4c537bea93b0a6627a238)
+[Heart Disease Prediction](https://github.com/Chetan265/heart_disease_predition)
 
-[Cars data analysis](https://github.com/Chetan265/Projects/commit/73f2a49d0efe67939c40a0f23db65a62ddd34fbb)
+[Cars data analysis](https://github.com/Chetan265/Cars_data_analysis)
 
-
+[Covid-19_EDA](https://github.com/Chetan265/covid_19-EDA)
