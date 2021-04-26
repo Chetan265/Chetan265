@@ -14,3 +14,7 @@ Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflo
 [Cars data analysis](https://github.com/Chetan265/Cars_data_analysis)
 
 [Covid-19_EDA](https://github.com/Chetan265/covid_19-EDA)
+
+[House_price_prediction](https://github.com/Chetan265/house_price_predict)
+
+[Phishing_detector](https://github.com/Chetan265/phishing-detector)
