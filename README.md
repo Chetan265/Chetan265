@@ -5,7 +5,7 @@ Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflo
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in coding , Machine Learning and deep learning
 - 🤝 Open for job in  analytics,data science and python
-- 👨 Know more about me at [Chetan](https://drive.google.com/file/d/1_78jYMDxXjHapEYsTJveEQYKaHfsFKin/view?usp=sharing) 
+- 👨 Know more about me at [Chetan](https://drive.google.com/file/d/1vPFKrzMWTsWWvp7QpHhX_4HMHyiLnMQs/view?usp=sharing) 
 
 ### My Recent projects 
 
@@ -18,3 +18,5 @@ Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflo
 [House_price_prediction](https://github.com/Chetan265/house_price_predict)
 
 [Phishing_detector](https://github.com/Chetan265/phishing-detector)
+
+[Spam_ham Classification](https://github.com/Chetan265/spam_ham_classifier)
