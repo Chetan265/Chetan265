@@ -22,3 +22,5 @@ Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflo
 [Spam_ham Classification](https://github.com/Chetan265/spam_ham_classifier)
 
 [Image Classification](https://github.com/Chetan265/Image_Classification)
+
+[Sentiment analysis on amazon product reviews](https://github.com/Chetan265/Sentiment_analysis)
