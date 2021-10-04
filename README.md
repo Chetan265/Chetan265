@@ -8,6 +8,7 @@ Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflo
 - 👨 Know more about me at [Chetan](https://drive.google.com/file/d/1f3NGnLTyIGugt3Y_aaY6gTjQXk_TfnCp/view?usp=sharing) 
 
 ### My Recent projects 
+[Mushroom Classification](https://github.com/Chetan265/Mushroom_Classification)
 
 [Heart Disease Prediction](https://github.com/Chetan265/heart_disease_predition)
 
