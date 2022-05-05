@@ -1,9 +1,9 @@
 ## Hi 👋 I am Chetan 
-I am working as  AUtomation Analyst in Akna Medical Private limited.
+I am working as Sr. Analyst (Data science) in Capgemini,Bangalore.
 I am passionate about stuff like Data analytics,Data visualization,Machine Learning & Deep Learning. 
-Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflow. I am actively looking for opportunities in Data Science.
+Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflow.
 
-- 👨🏽‍💻 Currently working, learning and growing my skillset in coding , Machine Learning and deep learning
+- 👨🏽‍💻 Currently working, learning skillset in coding , Machine Learning and deep learning
 - 🤝 Open for job in  analytics,data science and python
 - 👨 Know more about me at [Chetan](https://drive.google.com/file/d/1cEr8YzSlNqoF8JjLjrbrgWsGtygIFlBJ/view?usp=sharing) 
 
