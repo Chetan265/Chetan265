@@ -1,9 +1,9 @@
 ## Hi 👋 I am Chetan 
-I am working as Sr. Analyst (Data science) in Capgemini,Bangalore.
-I am passionate about stuff like Data analytics,Data visualization,Machine Learning & Deep Learning. 
+I am working as Associate Data Scientist in Hyperthinks,Bangalore.
+I am passionate about stuff like Machine Learning, Deep Learning, Generative AI and Agentic AI. 
 Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflow.
 
-- 👨🏽‍💻 Currently working, learning skillset in coding , Machine Learning and deep learning
+- 👨🏽‍💻 working and learning skillset in coding , Machine Learning, deep learning, Generative AI and Agnetic AI.
 - 👨 Know more about me at [Chetan](https://drive.google.com/file/d/1cEr8YzSlNqoF8JjLjrbrgWsGtygIFlBJ/view?usp=sharing) 
 
 ### My Recent projects 
